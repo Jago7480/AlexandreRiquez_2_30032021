@@ -22,11 +22,11 @@
     }
 
     #container_menu /* CSS du menu en haut à droite */
-{
+    {
     flex-direction: row;
     display: flex;
     grid-column-start: 3;
-}
+    }
 
     #Hebergements /* CSS d'Hébergements dans le menu */
     {
