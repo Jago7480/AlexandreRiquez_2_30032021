@@ -106,8 +106,6 @@
     border: solid 1px;
     border-color: #F2F2F2;
     outline: none;
-    font-size: normal;
-    font-weight: 400;
     padding-left: 10px;
     padding-right: 45px;
 }
@@ -115,7 +113,6 @@
 ::placeholder /* CSS du placeholder Marseille, France */
 {
     font-family: 'Raleway', sans-serif;
-    font-weight: 750;
     color: black !important;
 }
 
